@@ -1,0 +1,26 @@
+.app-logo {  
+    height: 3em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+
+.header {
+  background-image: linear-gradient(to right, #a4bbaa, #bbc9bf);
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}
+
+.logo {
+  display: flex;
+  padding: 10px;
+}
+
+.app-name {
+  font-size: 40px;
+  font-weight: bold;
+  align-self: center;
+  color: black;
+}
